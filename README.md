@@ -5,15 +5,6 @@ Instructor: Dr. Derex Griffin
 Semester / Date: Fall 2024  
 
 GitHub Repository: https://github.com/<your-username>/Centralized-ITAM-TeamG  
-(Replace <your-username> with your actual GitHub username.)
-
----
-
-## Team Members
-- Bhavya Mandala – 1233591153  
-- Ishwariya Pandi – 1233885850  
-- Adhithi Sathish Kumar – 1233343815  
-- Vaishmitha Reddy Biyyapu – 1233298757  
 
 ---
 
